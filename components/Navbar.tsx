@@ -50,7 +50,7 @@ const Navbar = () => {
             transition={{ duration: 0.1 }}
           >
             {/* <Image className="w-14" src={logo} alt="logo" /> */}
-            <h4>Usman's Awan</h4>
+            <h4>Usman Awan</h4>
           </motion.div>
         </Link>
         {/* ============ Logo End here ============== */}
