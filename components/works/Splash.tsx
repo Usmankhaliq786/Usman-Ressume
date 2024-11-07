@@ -21,7 +21,7 @@ const Splash = () => {
           <span className="text-textGreen mt-1">
             <TiArrowForward />
           </span>
-          As a web development intern working remotely via Upwork, I’m actively involved in creating responsive, user-friendly websites for clients while collaborating with skilled professionals. This role allows me to build real-world experience in frontend and backend development, focusing on effective client communication and delivering high-quality work. Through Upwork, I'm gaining essential technical skills and understanding project workflows, setting a solid foundation for a future career in web development.
+          As a web development intern working remotely via Upwork, Im actively involved in creating responsive, user-friendly websites for clients while collaborating with skilled professionals. This role allows me to build real-world experience in frontend and backend development, focusing on effective client communication and delivering high-quality work. Through Upwork, Im gaining essential technical skills and understanding project workflows, setting a solid foundation for a future career in web development.
         </li>
       </ul>
     </motion.div>
