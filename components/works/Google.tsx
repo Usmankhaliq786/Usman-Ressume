@@ -10,7 +10,7 @@ const Google = () => {
     >
       <h3 className="flex gap-1 font-medium text-xl font-titleFont">
         Web Developer
-        <span className="text-textGreen tracking-wide">@IsoftStudio's</span>
+        <span className="text-textGreen tracking-wide">@IsoftStudios</span>
       </h3>
       <p className="text-sm mt-1 font-medium text-textDark">
         Jan 2022 - Dec 2023
